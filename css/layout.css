@@ -1,0 +1,28 @@
+    
+    
+    .icon-bg {
+
+    width: 195px;
+    height: 57px;
+    left: 11px;
+    top: 142px;
+
+    background: #FFFFFF;
+    border-radius: 25px 0px 0px 25px;
+    }
+
+    .Calendar {
+
+width: 81px;
+height: 18px;
+left: 81px;
+top: 236px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+
+color: #C4C4C4;
+    }
