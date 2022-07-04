@@ -1,0 +1,39 @@
+.nav:hover {
+
+    width: 206px;
+    transition: 0.5s;
+
+    }
+
+   .link .hidden:hover
+    {
+        display: inline;
+        
+    }
+
+img:not(.logo){
+
+    filter: invert(85%) sepia(0%) saturate(10%) hue-rotate(352deg) brightness(94%) contrast(89%);
+
+}
+
+.link img:hover {
+
+        filter:invert(100%);
+        filter: invert(12%) sepia(82%) saturate(3999%) hue-rotate(184deg) brightness(108%) contrast(98%);
+
+    
+    }
+
+
+.nav:hover .hidden
+{
+
+display: block;
+
+}
+
+
+
+
+
